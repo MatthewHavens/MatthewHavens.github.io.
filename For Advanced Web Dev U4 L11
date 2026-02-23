@@ -7,10 +7,10 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
 <body>
-    <h1> Matthew Havens </h1>
+    <h1> Out of the top 50 most-streamed songs, who is the most-streamed artist on Spotify? </h1>
 
-    <p> I am an amateur web developer. </p>
-
+    <p> The topic of my data science project is finding out who the most-streamed artist is out of the top 50 most-streamed songs. I wanted to see if the same artist that has the most streams, that being Taylor Swift, would also be the most streamed if we only include the top 50 most-streamed songs. Another reason I chose this topic is that I really like music. I almost always have Spotify open on my second monitor. <span id="dots">...</span><span id="more"> My research question is: Out of the top 50 most-streamed songs, who is the most-streamed artist on Spotify? I have my data all collected in a Google Sheet. I know that a lot of people would be curious if the top-most-streamed songs correlated with the most-streamed artist. Interestingly enough, the most-streamed artist, Taylor Swift, only has a single song in the top 50. </span> <span id="dots">...</span><span id="more"> Out of the top 50 most-streamed songs on Spotify, the most-streamed artist within those songs is Ed Sheeran. My website will also tell you how many streams each artist has. It will also tell you which of their songs has what amount of streams and their average amount of streams out of the top 50. </span> </p>
+<button onclick="myFunction()" id="myBtn">Read more</button>
     <script src="script.js"></script>
   </body>
 </html>
